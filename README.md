@@ -156,7 +156,7 @@
 
 <table>
 <tr>
-<td>Update</td>
+<td>Deleting an activity</td>
 </tr>
 <tr>
 <td><img src="app/src/main/res/drawable/delete.gif"></td>
