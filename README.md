@@ -195,8 +195,8 @@
 </tr>
 <tr>
 <td><img src="app/src/main/res/drawable/page.png" > </td>
-<td><img src="app/src/main/res/drawable/logout.png" > </td>
 <td><img src="app/src/main/res/drawable/logout1.png" > </td>
+<td><img src="app/src/main/res/drawable/logout2.png" > </td>
 </tr>
 </table>
 
