@@ -9,6 +9,7 @@
 </tr>
 </table>
 
+#### The app initially starts up with the login feature, when the user can login in order to use to app.
 <table>
 <tr>
 <td>Login </td>	
@@ -31,8 +32,10 @@
 </tr>
 </table>
 
+
 ## Crud Functionalities 
 ### Creating an activity
+#### The basic use of crud functionality is suppose to be shown in the app, where the initial step is to creat an activity.
 <table>
 <tr>
 <td>ACTIVITY PAGE</td>
@@ -72,6 +75,7 @@
 </tr>
 </table>
 
+#### The crud functionality of adding an activity.
 <table>
 <tr>
 <td>Adding Elements</td>
@@ -106,6 +110,7 @@
 </tr>
 </table>
  
+
 <table>
 <tr>
 <td>Check box</td>
@@ -116,7 +121,9 @@
 </table>
 
 
+
 # Updating an activity
+#### The crud functionality is followed by updating an activity.
 <table>
 <tr>
 <td>Activity to be edited</td>
@@ -130,6 +137,7 @@
 </tr>
 </table>
 
+#### This is the function which is used to update the activity.
 <table>
 <tr>
 <td>Update</td>
@@ -140,7 +148,9 @@
 </table>
 
 
+
 # Deleting an activity
+#### Similarly, The final crud functionality is followed by deleting an activity.
 <table>
 <tr>
 <td>Activity to be deleted</td>
@@ -154,6 +164,7 @@
 </tr>
 </table>
 
+#### This is a function which deleted all completed activities.
 <table>
 <tr>
 <td>Deleting an activity</td>
@@ -177,7 +188,7 @@
 </tr>
 </table>
 
-<table>
+#### The basic use of function which deleted all the added activities.
 <tr>
 <td>Deleted All</td>
 </tr>
@@ -186,7 +197,9 @@
 </tr>
 </table>
 
+
 # Logging out
+#### The final step where the user can just logout and exit the program.
 <table>
 <tr>
 <td>Activity Page</td>
@@ -209,6 +222,7 @@
 </tr>
 </table>
 
+#### This is the whole todo app which consists of all the requirements.
 <table>
 <tr>
 <td>Todo App</td>
