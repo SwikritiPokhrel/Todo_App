@@ -35,7 +35,7 @@
 
 ## Crud Functionalities 
 ### Creating an activity
-#### The basic use of crud functionality is suppose to be shown in the app, where the initial step is to creat an activity.
+#### The basic use of crud functionality is suppose to be shown in the app, where the initial step is to create an activity.
 <table>
 <tr>
 <td>ACTIVITY PAGE</td>
