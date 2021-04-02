@@ -66,5 +66,7 @@
 <tr>
 <td><img src="app/src/main/res/drawable/activity4.png" > </td>
 <td><img src="app/src/main/res/drawable/activity5.png" > </td>
+<td><img src="app/src/main/res/drawable/validation.png" > </td>
 </tr>
 </table>
+
