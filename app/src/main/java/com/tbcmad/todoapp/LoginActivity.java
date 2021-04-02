@@ -25,7 +25,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                if(userName.getText().toString().equals("admin") && password.getText().toString().equals("test")) {
+                if(userName.getText().toString().equals("swikriti") && password.getText().toString().equals("swikriti")) {
                     SharedPreferences preferences = getApplicationContext().getSharedPreferences("todo pref", 0);
                         SharedPreferences.Editor editor = preferences.edit();
                         editor.putBoolean("authentication", true);
