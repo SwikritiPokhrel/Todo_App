@@ -5,17 +5,7 @@
 <td>Welcome</td>
 </tr>
 <tr>
-<td><img src="app/src/main/res/drawable/welcome.png" width="400" height="600"> </td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<td>Login</td>
-</tr>
-<tr>
-<td><img src="app/src/main/res/drawable/login.gif"></td>
+<td><img src="app/src/main/res/drawable/welcome.png" width="300" height="500"> </td>
 </tr>
 </table>
 
@@ -32,5 +22,12 @@
 </tr>
 </table>
 
-
+<table>
+<tr>
+<td>Logged In</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/login.gif"></td>
+</tr>
+</table>
 
