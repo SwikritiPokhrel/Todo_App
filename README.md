@@ -32,7 +32,7 @@
 </table>
 
 ## Crud Functionalities 
-# Creating an activity
+### Creating an activity
 <table>
 <tr>
 <td>ACTIVITY PAGE</td>
@@ -74,6 +74,15 @@
 
 <table>
 <tr>
+<td>Logged In</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/add.gif"></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td>Added activity</td>
 <td>Adding activities with priorities</td>
 </tr>
@@ -96,8 +105,18 @@
 <td><img src="app/src/main/res/drawable/completed.png" > </td>
 </tr>
 </table>
+ 
+<table>
+<tr>
+<td>Logged In</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/check.gif"></td>
+</tr>
+</table>
 
-#Editing an activity
+
+# Updating an activity
 <table>
 <tr>
 <td>Activity to be edited</td>
@@ -110,4 +129,14 @@
 <td><img src="app/src/main/res/drawable/update2.png" > </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td>Logged In</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/update.gif"></td>
+</tr>
+</table>
+
 
