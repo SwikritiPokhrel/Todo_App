@@ -31,6 +31,8 @@
 </tr>
 </table>
 
+## Crud Functionalities 
+# Creating an activity
 <table>
 <tr>
 <td>ACTIVITY PAGE</td>
@@ -81,5 +83,31 @@
 </tr>
 </table>
 
+<table>
+<tr>
 
+<td>Pending activity</td>
+<td>Checked activity</td>
+<td>Completed activity</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/mainpage1.png" > </td>
+<td><img src="app/src/main/res/drawable/checked.png" > </td>
+<td><img src="app/src/main/res/drawable/completed.png" > </td>
+</tr>
+</table>
+
+#Editing an activity
+<table>
+<tr>
+<td>Activity to be edited</td>
+<td>Updating details</td>
+<td>Updated priority, date, description and completed action</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/update.png" > </td>
+<td><img src="app/src/main/res/drawable/update1.png" > </td>
+<td><img src="app/src/main/res/drawable/update2.png" > </td>
+</tr>
+</table>
 
