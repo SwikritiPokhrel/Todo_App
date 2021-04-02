@@ -74,7 +74,7 @@
 
 <table>
 <tr>
-<td>Logged In</td>
+<td>Adding Elements</td>
 </tr>
 <tr>
 <td><img src="app/src/main/res/drawable/add.gif"></td>
@@ -108,7 +108,7 @@
  
 <table>
 <tr>
-<td>Logged In</td>
+<td>Check box</td>
 </tr>
 <tr>
 <td><img src="app/src/main/res/drawable/check.gif"></td>
@@ -132,11 +132,57 @@
 
 <table>
 <tr>
-<td>Logged In</td>
+<td>Update</td>
 </tr>
 <tr>
 <td><img src="app/src/main/res/drawable/update.gif"></td>
 </tr>
 </table>
 
+
+# Deleting an activity
+<table>
+<tr>
+<td>Activity to be deleted</td>
+<td>Deleting completed</td>
+<td>Deleted completed</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/delete.png" > </td>
+<td><img src="app/src/main/res/drawable/delete1.png" > </td>
+<td><img src="app/src/main/res/drawable/delete2.png" > </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Update</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/delete.gif"></td>
+</tr>
+</table>
+
+# Deleting all
+<table>
+<tr>
+<td>Activity to be deleted</td>
+<td>Deleting completed</td>
+<td>Deleted completed</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/delete3.png" > </td>
+<td><img src="app/src/main/res/drawable/delete4.png" > </td>
+<td><img src="app/src/main/res/drawable/delete5.png" > </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Deleted All</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/delete1.gif"></td>
+</tr>
+</table>
 
