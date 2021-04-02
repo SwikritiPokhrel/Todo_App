@@ -208,3 +208,12 @@
 <td><img src="app/src/main/res/drawable/logout.gif"></td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td>Todo App</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/todo.gif"></td>
+</tr>
+</table>
