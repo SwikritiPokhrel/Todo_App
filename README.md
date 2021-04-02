@@ -70,3 +70,16 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td>Added activity</td>
+<td>Adding activities with priorities</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/mainpage.png" > </td>
+<td><img src="app/src/main/res/drawable/mainpage1.png" > </td>
+</tr>
+</table>
+
+
+
