@@ -76,8 +76,8 @@
 <td>Adding activities with priorities</td>
 </tr>
 <tr>
-<td><img src="app/src/main/res/drawable/mainpage.png" > </td>
-<td><img src="app/src/main/res/drawable/mainpage1.png" > </td>
+<td><img src="app/src/main/res/drawable/mainpage.png" width="300" height="500"> </td>
+<td><img src="app/src/main/res/drawable/mainpage1.png" width="300" height="500"> </td>
 </tr>
 </table>
 
