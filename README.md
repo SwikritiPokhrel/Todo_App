@@ -186,3 +186,25 @@
 </tr>
 </table>
 
+# Logging out
+<table>
+<tr>
+<td>Activity Page</td>
+<td>Logout</td>
+<td>Logged out</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/page.png" > </td>
+<td><img src="app/src/main/res/drawable/logout.png" > </td>
+<td><img src="app/src/main/res/drawable/logout1.png" > </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Logging Out</td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/logout.gif"></td>
+</tr>
+</table>
